@@ -3,7 +3,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ![Preview](preview.jpg)
 
-## Live links (replace with your own)
+## Live links
 - Leaflet Map https://github.com/telerama/-leaflet-maps-with-google-sheets
 - Google Sheets template https://docs.google.com/spreadsheets/d/1qjojcj-SVq0u0hSqNIjmdAG0DdUGmc3K1ltdDpR-SFk/edit#gid=0
 
