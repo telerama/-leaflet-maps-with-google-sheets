@@ -1,12 +1,14 @@
 Group,Marker Icon,Marker Color,Icon Color,Custom Size,Name,Image,Description,Location,Latitude,Longitude
-Simples arrêts,fa-fort-awesome,,,40x40,Château de Tancarville,https://www.telerama.fr/sites/tr_master/files/styles/simplecrop1000/public/assets/images/010_gtt09a12_106_ver_1.jpg?itok=xJcN29NO,"La tour de l’Aigle, à Tancarville, où la sœur de Maurice Leblanc l’invitait à écrire.","Tancarville, France",49.479947,0.4650937
-Randonnées possibles,fa-ambulance,,,40x40,L'aiguille d'Etretat,https://www.telerama.fr/sites/tr_master/files/styles/simplecrop1000/public/assets/images/050_only_0386962_ver_1.jpg?itok=E8PgxuC6,Arsène Lupin y aurait découvert le secret des Rois de France,"Falaises d'Etretat, France",49.706607,0.195179
-Simples arrêts,fa-home,,,40x40,Maison natale de Maurice Leblanc,,87 Rue Jeanne d'Arc,"Rouen, France",49.4460482,1.092693
-Randonnées possibles,fa-water,,,40x40,Valleuse de Bruneval,,"Isidore Beautrelet y passe dans <i>L'aiguille creuse</i>. Lieu d'un épisode intéressant de la Seconde Guerre mondiale : en 1942, des parachutistes britanniques y réussirent un raid sur un radar allemand",Bruneval,49.66661889,0.1595246118
-Visites possibles,fa-landmark,,,40x40,Théâtre gallo-romain de Lillebonne,,"« La Juliabona des Romains, capitale importante, et dont le théâtre antique prouve la vitalité durant la période gallo-romaine » (<i>La Barre-y-va</i>)",Lillebonne,49.51773445,0.5367752451
-Simples arrêts,fa-church,,,40x40,Chapelles de la Barre-y-va,,,Caudebec-en-Caux,49.52355033,0.7076088251
-Visites possibles,fa-place-of-worship,,,40x40,Abbaye de Saint Wandrille,,,"2 Rue Saint-Jacques, 76490 Rives-en-Seine",49.5288581,0.7679534
-Simples arrêts,fa-fort-awesome,,,40x40,Emplacement possible du château de Malaquis,,,"Sente du vieux château, Le Trait",49.4719456,0.8136469
-Simples arrêts,fa-home,,,40x40,Maison de l'oncle Achille,,Maurice Leblanc y venait passer ses vacances enfant.,,49.431826,0.8177847187
-Visites possibles,fa-place-of-worship,,,40x40,Abbaye de Jumièges,,,,49.43195,0.818877
-Simples arrêts,fa-fort-awesome,,,40x40,Manoir d'Agnès Sorel,,,,49.41068732,0.8521763405
+Simples arrêts,fa-fort-awesome,darkblue,,,Château de Tancarville,https://www.telerama.fr/sites/tr_master/files/styles/simplecrop1000/public/assets/images/010_gtt09a12_106_ver_1.jpg?itok=xJcN29NO,"La tour de l’Aigle, à Tancarville, où la sœur de Maurice Leblanc l’invitait à écrire.","Tancarville, France",49.479947,0.4650937
+Randonnées possibles,fa-ambulance,,green,,L'aiguille d'Etretat,https://www.telerama.fr/sites/tr_master/files/styles/simplecrop1000/public/assets/images/050_only_0386962_ver_1.jpg?itok=E8PgxuC6,Arsène Lupin y aurait découvert le secret des Rois de France,"Falaises d'Etretat, France",49.706607,0.195179
+Simples arrêts,fa-home,,,,Maison natale de Maurice Leblanc,,87 Rue Jeanne d'Arc,"Rouen, France",49.4460482,1.092693
+Randonnées possibles,fa-water,,,,Valleuse de Bruneval,,"Isidore Beautrelet y passe dans <i>L'aiguille creuse</i>. Lieu d'un épisode intéressant de la Seconde Guerre mondiale : en 1942, des parachutistes britanniques y réussirent un raid sur un radar allemand",Bruneval,49.66661889,0.1595246118
+Visites possibles,fa-landmark,,,,Théâtre gallo-romain de Lillebonne,,"« La Juliabona des Romains, capitale importante, et dont le théâtre antique prouve la vitalité durant la période gallo-romaine » (<i>La Barre-y-va</i>)",Lillebonne,49.51773445,0.5367752451
+Simples arrêts,fa-church,,,,Chapelles de la Barre-y-va,,,Caudebec-en-Caux,49.52355033,0.7076088251
+Visites possibles,fa-place-of-worship,,,,Abbaye de Saint Wandrille,,,"2 Rue Saint-Jacques, 76490 Rives-en-Seine",49.5288581,0.7679534
+Simples arrêts,fa-fort-awesome,,,,Emplacement possible du château de Malaquis,,,"Sente du vieux château, Le Trait",49.4719456,0.8136469
+Simples arrêts,fa-home,,,,Maison de l'oncle Achille,,Maurice Leblanc y venait passer ses vacances enfant.,,49.431826,0.8177847187
+Visites possibles,fa-place-of-worship,,,,Abbaye de Jumièges,,,,49.43195,0.818877
+Simples arrêts,fa-fort-awesome,,,,Manoir d'Agnès Sorel,,,,49.41068732,0.8521763405
+Visites possibles,fa-place-of-worship,,,,Abbaye Saint Georges de Boscherville,,,"12 Rte de l'Abbaye, 76840 Saint-Martin-de-Boscherville",49.4442187,0.9644013
+Simples arrêts,fa-home,,,,Maison où Maurice Leblanc a passé son enfance,,,"2 Rue de Fontenelle, Rouen",49.4408323,1.084226
