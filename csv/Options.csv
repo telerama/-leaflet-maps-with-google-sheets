@@ -1,12 +1,12 @@
 Setting,Customize,Hints
 Map Info,,"For help, see tutorial in HandsOnDataViz.org"
-Map Title,Demo: Leaflet Maps with Google Sheets v. 1.2.0,Insert your map title. Always appears in browser tab
-Map Subtitle,Explore the East Coast Greenway,Add context (or leave blank)
+Map Title,Sur les traces d'Arsène Lupin en vélo,Insert your map title. Always appears in browser tab
+Map Subtitle,"De Rouen à Etretat, à travers le Pays de Caux",Add context (or leave blank)
 Display Title,topleft,"Select position to display map title, or off"
-Author Name,Add Your Name,"Appears in credits as ""View data by..."" (or leave blank)"
-Author Email or Website,,Insert your email or web address to appear as link in Author Name (or leave blank)
-Author Code Repo,https://github.com/HandsOnDataViz/leaflet-maps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
-Author Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
+Author Name,Télérama.fr,"Appears in credits as ""View data by..."" (or leave blank)"
+Author Email or Website,https://www.telerama.fr/,Insert your email or web address to appear as link in Author Name (or leave blank)
+Author Code Repo,https://github.com/telerama/-leaflet-maps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
+Author Code Credit,,"Appears in credits as ""...code by..."" (or leave blank)"
 Google Analytics Tracking ID,,General format: UA-5488840-29
 Map Settings,,"For help, see tutorial in HandsOnDataViz.org"
 Basemap Tiles,CartoDB.Positron,Select basemap background from drop-down menu
@@ -32,7 +32,7 @@ Table Height,40,Height of table (as percentage of map; 40 percent is default)
 Table Columns,"Name,Location",Columns from Points sheet to display in Table (or leave blank)
 Table Header Color,,"Background color of table header (default is black). If desired, insert a comma and specify table text color (default is black)."
 Polyline Map Controls,,"For help, see tutorial in HandsOnDataViz.org"
-Polyline Legend Title,Sample polylines:<br>Greenway routes,Show title at top of Polyline legend (or leave blank)
+Polyline Legend Title,155 km à vélo,Show title at top of Polyline legend (or leave blank)
 Polyline Legend Position,topleft,Display Polyline legend
 Polyline Legend Icon,fa-bicycle,Insert a Font Awesome free and solid icon name (example: fa-bus) or any Material Design icon name (example: rowing) or leave blank
-Polyline Thickness,2,Select thickness of all Polylines (in pixels)
+Polyline Thickness,5,Select thickness of all Polylines (in pixels)
